@@ -4,6 +4,8 @@
 
 **Have a Laugh** is a fun and interactive project that delivers jokes and humor directly to users. Designed to lighten up your day, this project offers a wide range of jokes that cater to different senses of humor. With seamless integration and clean design, it's your perfect laughter companion.
 
+**Live Preview** - [Have A Laugh](https://have-a-laugh.onrender.com)
+
 ## Features
 
 - **API Integration:** Fetch jokes dynamically using APIs.
