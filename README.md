@@ -10,6 +10,7 @@
 
 - **API Integration:** Fetch jokes dynamically using APIs.
 - **Responsive Design:** Works great on desktop and mobile.
+- **Deployed:** The Website is deployed on [Render](render.com)
 
 ## Technologies Used
 
