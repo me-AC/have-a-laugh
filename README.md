@@ -1,8 +1,17 @@
-# React + Vite
+# JokeGen
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+JokeGen is a simple React application that fetches and displays random jokes using the JokeAPI. The project is built with Vite, Tailwind CSS, and ESLint for a smooth development experience.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Fetches random jokes from the JokeAPI
+- Responsive design with Tailwind CSS
+- ESLint configured for code quality
+- Fast development with Vite
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v14 or higher)
+- npm (v6 or higher)
